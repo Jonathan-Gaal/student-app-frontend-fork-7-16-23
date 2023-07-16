@@ -1,4 +1,5 @@
-import StudentCard from '../StudentCard/StudentCard';
+import StudentCard from "../StudentCard/StudentCard";
+import "./StudentList.css";
 
 const StudentList = ({ studentData }) => {
   console.log(`<StudentList /> rendered!`);

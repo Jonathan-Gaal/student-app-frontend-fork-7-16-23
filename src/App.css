@@ -1,2 +1,6 @@
-
+.App {
+display: grid;
+justify-content: center; /*horiz*/
+align-items: center; /*vert*/
+}
 
